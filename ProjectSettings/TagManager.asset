@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Barrier
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Equipment
+  - Water
+  - UI
+  - Barrier
+  - Player
+  - Fists
+  - PlayerAttack
+  - Enemy
+  - WaterAttack
+  - WaterBucket
+  - Sword
+  - HideZone
+  - Banana
+  - Lollipop
+  - RubberChicken
+  - City
+  - Blanket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
